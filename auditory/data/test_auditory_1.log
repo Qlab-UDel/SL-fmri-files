@@ -1,0 +1,1340 @@
+8.2103 	WARNING 	User requested fullscreen with size [1366  768], but screen is actually [1920, 1080]. Using actual size
+9.3862 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color='white', colorSpace='named', fullscr=UNKNOWN, gamma=None, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x206BACD0>, multiSample=False, name='window1', numSamples=2, pos=[0, 0], screen=0, size=array([1920, 1080]), stereo=False, units=u'norm', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+9.3863 	EXP 	window1: recordFrameIntervals = False
+9.4695 	EXP 	window1: recordFrameIntervals = True
+9.5379 	WARNING 	t of last frame was 10.15ms (=1/98)
+9.5612 	EXP 	window1: recordFrameIntervals = False
+9.7446 	EXP 	Created text_11 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_11', opacity=1.0, ori=0, pos=array([-0.3,  0. ]), rgb=array([ 0.,  0.,  0.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+9.7519 	EXP 	Created image_15 = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, image='Alien11.BMP', interpolate=True, mask=None, maskParams=None, name='image_15', opacity=1.0, ori=0.0, pos=array([ 0.5,  0. ]), size=array([ 0.3375    ,  0.34444444]), texRes=128, units=u'norm', win=Window(...))
+10.7003 	EXP 	Set  sound=C
+17.5314 	WARNING 	User requested fullscreen with size [1366  768], but screen is actually [1920, 1080]. Using actual size
+18.0503 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color='white', colorSpace='named', fullscr=UNKNOWN, gamma=None, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x1FD76CD0>, multiSample=False, name='window1', numSamples=2, pos=[0, 0], screen=0, size=array([1920, 1080]), stereo=False, units=u'norm', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+18.0503 	EXP 	window1: recordFrameIntervals = False
+18.1333 	EXP 	window1: recordFrameIntervals = True
+18.2251 	EXP 	window1: recordFrameIntervals = False
+18.3086 	EXP 	Created text_11 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_11', opacity=1.0, ori=0, pos=array([-0.3,  0. ]), rgb=array([ 0.,  0.,  0.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+18.3137 	EXP 	Created image_15 = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, image='Alien11.BMP', interpolate=True, mask=None, maskParams=None, name='image_15', opacity=1.0, ori=0.0, pos=array([ 0.5,  0. ]), size=array([ 0.3375    ,  0.34444444]), texRes=128, units=u'norm', win=Window(...))
+19.1599 	EXP 	Set  sound=C
+19.1672 	EXP 	Set  sound=reminder_du.wav
+19.1672 	EXP 	Sound  set volume 1.000
+19.1707 	EXP 	Created TA_first = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='TA_first', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 0.,  0.,  0.]), text=u'+', units=u'norm', win=Window(...), wrapWidth=1)
+19.1918 	EXP 	Set  sound=A
+19.1918 	EXP 	Sound  set volume 1.000
+19.1972 	EXP 	Created fam_trials_image = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, image=u'Alien11.BMP', interpolate=True, mask=None, maskParams=None, name='fam_trials_image', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 0.3375    ,  0.34444444]), texRes=128, units=u'norm', win=Window(...))
+19.2185 	EXP 	Set  sound=A
+19.2185 	EXP 	Sound  set volume 1.000
+19.2397 	EXP 	Created alien = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='AlienTrumpet.png', interpolate=True, mask=None, maskParams=None, name='alien', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 0.41666667,  1.02407407]), texRes=128, units=u'norm', win=Window(...))
+19.2524 	EXP 	Created treminder_text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='treminder_text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 0.,  0.,  0.]), text=u'Now press the button when you hear this!', units=u'norm', win=Window(...), wrapWidth=1)
+19.2579 	EXP 	Set  sound=reminder_1c.wav
+19.2579 	EXP 	Sound  set volume 1.000
+19.2588 	EXP 	window1: blendMode = 'avg'
+19.2616 	EXP 	text_11: autoDraw = True
+19.2616 	EXP 	image_15: autoDraw = True
+19.2618 	EXP 	window1: blendMode = 'avg'
+19.2671 	EXP 	window1: blendMode = 'avg'
+19.2756 	EXP 	window1: blendMode = 'avg'
+19.2839 	EXP 	window1: blendMode = 'avg'
+19.2925 	EXP 	window1: blendMode = 'avg'
+19.3005 	EXP 	window1: blendMode = 'avg'
+19.3089 	EXP 	window1: blendMode = 'avg'
+19.3172 	EXP 	window1: blendMode = 'avg'
+19.3255 	EXP 	window1: blendMode = 'avg'
+19.3341 	EXP 	window1: blendMode = 'avg'
+19.3424 	EXP 	window1: blendMode = 'avg'
+19.3507 	EXP 	window1: blendMode = 'avg'
+19.3590 	EXP 	window1: blendMode = 'avg'
+19.3673 	EXP 	window1: blendMode = 'avg'
+19.3757 	EXP 	window1: blendMode = 'avg'
+19.3840 	EXP 	window1: blendMode = 'avg'
+19.3924 	EXP 	window1: blendMode = 'avg'
+19.4006 	EXP 	window1: blendMode = 'avg'
+19.4089 	EXP 	window1: blendMode = 'avg'
+19.4174 	EXP 	window1: blendMode = 'avg'
+19.4256 	EXP 	window1: blendMode = 'avg'
+19.4340 	EXP 	window1: blendMode = 'avg'
+19.4423 	EXP 	window1: blendMode = 'avg'
+19.4506 	EXP 	window1: blendMode = 'avg'
+19.4591 	EXP 	window1: blendMode = 'avg'
+19.4987 	EXP 	window1: blendMode = 'avg'
+19.5015 	EXP 	window1: blendMode = 'avg'
+19.5039 	EXP 	window1: blendMode = 'avg'
+19.5090 	EXP 	window1: blendMode = 'avg'
+19.5260 	EXP 	window1: blendMode = 'avg'
+19.5284 	EXP 	window1: blendMode = 'avg'
+19.5340 	EXP 	window1: blendMode = 'avg'
+19.5423 	EXP 	window1: blendMode = 'avg'
+19.5506 	EXP 	window1: blendMode = 'avg'
+19.5591 	EXP 	window1: blendMode = 'avg'
+19.5673 	EXP 	window1: blendMode = 'avg'
+19.5757 	EXP 	window1: blendMode = 'avg'
+19.5841 	EXP 	window1: blendMode = 'avg'
+19.5924 	EXP 	window1: blendMode = 'avg'
+19.6008 	EXP 	window1: blendMode = 'avg'
+19.6090 	EXP 	window1: blendMode = 'avg'
+19.6174 	EXP 	window1: blendMode = 'avg'
+19.6257 	EXP 	window1: blendMode = 'avg'
+19.6340 	EXP 	window1: blendMode = 'avg'
+19.6424 	EXP 	window1: blendMode = 'avg'
+19.6506 	EXP 	window1: blendMode = 'avg'
+19.6591 	EXP 	window1: blendMode = 'avg'
+19.6674 	EXP 	window1: blendMode = 'avg'
+19.6757 	EXP 	window1: blendMode = 'avg'
+19.6875 	EXP 	window1: blendMode = 'avg'
+19.6921 	EXP 	window1: blendMode = 'avg'
+19.7005 	EXP 	window1: blendMode = 'avg'
+19.7088 	EXP 	window1: blendMode = 'avg'
+19.7172 	EXP 	window1: blendMode = 'avg'
+19.7255 	EXP 	window1: blendMode = 'avg'
+19.7338 	EXP 	window1: blendMode = 'avg'
+19.7422 	EXP 	window1: blendMode = 'avg'
+19.7505 	EXP 	window1: blendMode = 'avg'
+19.7588 	EXP 	window1: blendMode = 'avg'
+19.7672 	EXP 	window1: blendMode = 'avg'
+19.7755 	EXP 	window1: blendMode = 'avg'
+19.7838 	EXP 	window1: blendMode = 'avg'
+19.7922 	EXP 	window1: blendMode = 'avg'
+19.8005 	EXP 	window1: blendMode = 'avg'
+19.8088 	EXP 	window1: blendMode = 'avg'
+19.8171 	EXP 	window1: blendMode = 'avg'
+19.8255 	EXP 	window1: blendMode = 'avg'
+19.8338 	EXP 	window1: blendMode = 'avg'
+19.8423 	EXP 	window1: blendMode = 'avg'
+19.8506 	EXP 	window1: blendMode = 'avg'
+19.8589 	EXP 	window1: blendMode = 'avg'
+19.8672 	EXP 	window1: blendMode = 'avg'
+19.8755 	EXP 	window1: blendMode = 'avg'
+19.8838 	EXP 	window1: blendMode = 'avg'
+19.8921 	EXP 	window1: blendMode = 'avg'
+19.9005 	EXP 	window1: blendMode = 'avg'
+19.9088 	EXP 	window1: blendMode = 'avg'
+19.9172 	EXP 	window1: blendMode = 'avg'
+19.9255 	EXP 	window1: blendMode = 'avg'
+19.9338 	EXP 	window1: blendMode = 'avg'
+19.9422 	EXP 	window1: blendMode = 'avg'
+19.9505 	EXP 	window1: blendMode = 'avg'
+19.9589 	EXP 	window1: blendMode = 'avg'
+19.9672 	EXP 	window1: blendMode = 'avg'
+19.9755 	EXP 	window1: blendMode = 'avg'
+19.9838 	EXP 	window1: blendMode = 'avg'
+19.9921 	EXP 	window1: blendMode = 'avg'
+20.0004 	EXP 	window1: blendMode = 'avg'
+20.0088 	EXP 	window1: blendMode = 'avg'
+20.0173 	EXP 	window1: blendMode = 'avg'
+20.0255 	EXP 	window1: blendMode = 'avg'
+20.0338 	EXP 	window1: blendMode = 'avg'
+20.0422 	EXP 	window1: blendMode = 'avg'
+20.0505 	EXP 	window1: blendMode = 'avg'
+20.0589 	EXP 	window1: blendMode = 'avg'
+20.0672 	EXP 	window1: blendMode = 'avg'
+20.0755 	EXP 	window1: blendMode = 'avg'
+20.0838 	EXP 	window1: blendMode = 'avg'
+20.0922 	EXP 	window1: blendMode = 'avg'
+20.1005 	EXP 	window1: blendMode = 'avg'
+20.1088 	EXP 	window1: blendMode = 'avg'
+20.1172 	EXP 	window1: blendMode = 'avg'
+20.1255 	EXP 	window1: blendMode = 'avg'
+20.1339 	EXP 	window1: blendMode = 'avg'
+20.1422 	EXP 	window1: blendMode = 'avg'
+20.1506 	EXP 	window1: blendMode = 'avg'
+20.1589 	EXP 	window1: blendMode = 'avg'
+20.1672 	EXP 	window1: blendMode = 'avg'
+20.1755 	EXP 	window1: blendMode = 'avg'
+20.1838 	EXP 	window1: blendMode = 'avg'
+20.1922 	EXP 	window1: blendMode = 'avg'
+20.2005 	EXP 	window1: blendMode = 'avg'
+20.2089 	EXP 	window1: blendMode = 'avg'
+20.2172 	EXP 	window1: blendMode = 'avg'
+20.2255 	EXP 	window1: blendMode = 'avg'
+20.2339 	EXP 	window1: blendMode = 'avg'
+20.2422 	EXP 	window1: blendMode = 'avg'
+20.2505 	EXP 	window1: blendMode = 'avg'
+20.2589 	EXP 	window1: blendMode = 'avg'
+20.2672 	EXP 	window1: blendMode = 'avg'
+20.2756 	EXP 	window1: blendMode = 'avg'
+20.2839 	EXP 	window1: blendMode = 'avg'
+20.2922 	EXP 	window1: blendMode = 'avg'
+20.3005 	EXP 	window1: blendMode = 'avg'
+20.3089 	EXP 	window1: blendMode = 'avg'
+20.3172 	EXP 	window1: blendMode = 'avg'
+20.3255 	EXP 	window1: blendMode = 'avg'
+20.3339 	EXP 	window1: blendMode = 'avg'
+20.3424 	EXP 	window1: blendMode = 'avg'
+20.3506 	EXP 	window1: blendMode = 'avg'
+20.3589 	EXP 	window1: blendMode = 'avg'
+20.3673 	EXP 	window1: blendMode = 'avg'
+20.3756 	EXP 	window1: blendMode = 'avg'
+20.3840 	EXP 	window1: blendMode = 'avg'
+20.3922 	EXP 	window1: blendMode = 'avg'
+20.4006 	EXP 	window1: blendMode = 'avg'
+20.4089 	EXP 	window1: blendMode = 'avg'
+20.4172 	EXP 	window1: blendMode = 'avg'
+20.4256 	EXP 	window1: blendMode = 'avg'
+20.4339 	EXP 	window1: blendMode = 'avg'
+20.4422 	EXP 	window1: blendMode = 'avg'
+20.4506 	EXP 	window1: blendMode = 'avg'
+20.4590 	EXP 	window1: blendMode = 'avg'
+20.4673 	EXP 	window1: blendMode = 'avg'
+20.4756 	EXP 	window1: blendMode = 'avg'
+20.4839 	EXP 	window1: blendMode = 'avg'
+20.4922 	EXP 	window1: blendMode = 'avg'
+20.5006 	EXP 	window1: blendMode = 'avg'
+20.5090 	EXP 	window1: blendMode = 'avg'
+20.5173 	EXP 	window1: blendMode = 'avg'
+20.5256 	EXP 	window1: blendMode = 'avg'
+20.5339 	EXP 	window1: blendMode = 'avg'
+20.5423 	EXP 	window1: blendMode = 'avg'
+20.5506 	EXP 	window1: blendMode = 'avg'
+20.5590 	EXP 	window1: blendMode = 'avg'
+20.5673 	EXP 	window1: blendMode = 'avg'
+20.5756 	EXP 	window1: blendMode = 'avg'
+20.5839 	EXP 	window1: blendMode = 'avg'
+20.5924 	EXP 	window1: blendMode = 'avg'
+20.6006 	EXP 	window1: blendMode = 'avg'
+20.6090 	EXP 	window1: blendMode = 'avg'
+20.6173 	EXP 	window1: blendMode = 'avg'
+20.6256 	EXP 	window1: blendMode = 'avg'
+20.6339 	EXP 	window1: blendMode = 'avg'
+20.6423 	EXP 	window1: blendMode = 'avg'
+20.6506 	EXP 	window1: blendMode = 'avg'
+20.6590 	EXP 	window1: blendMode = 'avg'
+20.6673 	EXP 	window1: blendMode = 'avg'
+20.6756 	EXP 	window1: blendMode = 'avg'
+20.6840 	EXP 	window1: blendMode = 'avg'
+20.6923 	EXP 	window1: blendMode = 'avg'
+20.7007 	EXP 	window1: blendMode = 'avg'
+20.7091 	EXP 	window1: blendMode = 'avg'
+20.7173 	EXP 	window1: blendMode = 'avg'
+20.7257 	EXP 	window1: blendMode = 'avg'
+20.7340 	EXP 	window1: blendMode = 'avg'
+20.7423 	EXP 	window1: blendMode = 'avg'
+20.7506 	EXP 	window1: blendMode = 'avg'
+20.7591 	EXP 	window1: blendMode = 'avg'
+20.7674 	EXP 	window1: blendMode = 'avg'
+20.7757 	EXP 	window1: blendMode = 'avg'
+20.7840 	EXP 	window1: blendMode = 'avg'
+20.7924 	EXP 	window1: blendMode = 'avg'
+20.8007 	EXP 	window1: blendMode = 'avg'
+20.8091 	EXP 	window1: blendMode = 'avg'
+20.8174 	EXP 	window1: blendMode = 'avg'
+20.8257 	EXP 	window1: blendMode = 'avg'
+20.8340 	EXP 	window1: blendMode = 'avg'
+20.8424 	EXP 	window1: blendMode = 'avg'
+20.8507 	EXP 	window1: blendMode = 'avg'
+20.8590 	EXP 	window1: blendMode = 'avg'
+20.8674 	EXP 	window1: blendMode = 'avg'
+20.8757 	EXP 	window1: blendMode = 'avg'
+20.8840 	EXP 	window1: blendMode = 'avg'
+20.8923 	EXP 	window1: blendMode = 'avg'
+20.9006 	EXP 	window1: blendMode = 'avg'
+20.9090 	DATA 	Keypress: 5
+20.9096 	EXP 	Sound  started
+20.9172 	EXP 	text_11: autoDraw = False
+20.9172 	EXP 	image_15: autoDraw = False
+23.7844 	EXP 	Sound  stopped
+23.7896 	EXP 	Imported auditory_run1_1.csv as conditions, 24 conditions, 6 params
+23.7898 	EXP 	Created sequence: sequential, trialTypes=24, nReps=1, seed=None
+23.7901 	EXP 	New trial (rep=0, index=0): {'soundFile': u'pi.wav', 'word': 1, 'location': 1, 'repetition': 1, 'trialnum': 1, 'condition': u'S'}
+23.7950 	EXP 	Set  sound=pi.wav
+23.7954 	EXP 	Sound  started
+23.7964 	EXP 	fam_trials_image: autoDraw = True
+24.2512 	EXP 	Sound  stopped
+24.2678 	EXP 	Sound  stopped
+24.2682 	EXP 	New trial (rep=0, index=1): {'soundFile': u'tu.wav', 'word': 1, 'location': 2, 'repetition': 1, 'trialnum': 2, 'condition': u'S'}
+24.2724 	EXP 	Set  sound=tu.wav
+24.2728 	EXP 	Sound  started
+24.2761 	EXP 	fam_trials_image: autoDraw = False
+24.2761 	EXP 	fam_trials_image: autoDraw = True
+24.7262 	EXP 	Sound  stopped
+24.7429 	EXP 	Sound  stopped
+24.7433 	EXP 	New trial (rep=0, index=2): {'soundFile': u'bi.wav', 'word': 1, 'location': 3, 'repetition': 1, 'trialnum': 3, 'condition': u'S'}
+24.7495 	EXP 	Set  sound=bi.wav
+24.7498 	EXP 	Sound  started
+24.7512 	EXP 	fam_trials_image: autoDraw = False
+24.7512 	EXP 	fam_trials_image: autoDraw = False
+24.7512 	EXP 	fam_trials_image: autoDraw = True
+25.2014 	EXP 	Sound  stopped
+25.2181 	EXP 	Sound  stopped
+25.2184 	EXP 	New trial (rep=0, index=3): {'soundFile': u'di.wav', 'word': 2, 'location': 1, 'repetition': 1, 'trialnum': 4, 'condition': u'S'}
+25.2219 	EXP 	Set  sound=di.wav
+25.2222 	EXP 	Sound  started
+25.2263 	EXP 	fam_trials_image: autoDraw = False
+25.2263 	EXP 	fam_trials_image: autoDraw = False
+25.2263 	EXP 	fam_trials_image: autoDraw = True
+25.6764 	EXP 	Sound  stopped
+25.6931 	EXP 	Sound  stopped
+25.6934 	EXP 	New trial (rep=0, index=4): {'soundFile': u'ba.wav', 'word': 2, 'location': 2, 'repetition': 1, 'trialnum': 5, 'condition': u'S'}
+25.6974 	EXP 	Set  sound=ba.wav
+25.6978 	EXP 	Sound  started
+25.7013 	EXP 	fam_trials_image: autoDraw = False
+25.7013 	EXP 	fam_trials_image: autoDraw = False
+25.7013 	EXP 	fam_trials_image: autoDraw = True
+26.1515 	EXP 	Sound  stopped
+26.1682 	EXP 	Sound  stopped
+26.1685 	EXP 	New trial (rep=0, index=5): {'soundFile': u'pu.wav', 'word': 2, 'location': 3, 'repetition': 1, 'trialnum': 6, 'condition': u'S'}
+26.1724 	EXP 	Set  sound=pu.wav
+26.1727 	EXP 	Sound  started
+26.1764 	EXP 	fam_trials_image: autoDraw = False
+26.1764 	EXP 	fam_trials_image: autoDraw = False
+26.1764 	EXP 	fam_trials_image: autoDraw = True
+26.6265 	EXP 	Sound  stopped
+26.6433 	EXP 	Sound  stopped
+26.6436 	EXP 	New trial (rep=0, index=6): {'soundFile': u'ta.wav', 'word': 3, 'location': 1, 'repetition': 1, 'trialnum': 7, 'condition': u'S'}
+26.6478 	EXP 	Set  sound=ta.wav
+26.6481 	EXP 	Sound  started
+26.6515 	EXP 	fam_trials_image: autoDraw = False
+26.6515 	EXP 	fam_trials_image: autoDraw = False
+26.6515 	EXP 	fam_trials_image: autoDraw = True
+27.1016 	EXP 	Sound  stopped
+27.1184 	EXP 	Sound  stopped
+27.1187 	EXP 	New trial (rep=0, index=7): {'soundFile': u'ti.wav', 'word': 3, 'location': 2, 'repetition': 1, 'trialnum': 8, 'condition': u'S'}
+27.1226 	EXP 	Set  sound=ti.wav
+27.1229 	EXP 	Sound  started
+27.1266 	EXP 	fam_trials_image: autoDraw = False
+27.1266 	EXP 	fam_trials_image: autoDraw = False
+27.1266 	EXP 	fam_trials_image: autoDraw = True
+27.5768 	EXP 	Sound  stopped
+27.5935 	EXP 	Sound  stopped
+27.5938 	EXP 	New trial (rep=0, index=8): {'soundFile': u'du.wav', 'word': 3, 'location': 3, 'repetition': 1, 'trialnum': 9, 'condition': u'S'}
+27.5977 	EXP 	Set  sound=du.wav
+27.5980 	EXP 	Sound  started
+27.6017 	EXP 	fam_trials_image: autoDraw = False
+27.6017 	EXP 	fam_trials_image: autoDraw = False
+27.6017 	EXP 	fam_trials_image: autoDraw = True
+28.0518 	EXP 	Sound  stopped
+28.0686 	EXP 	Sound  stopped
+28.0690 	EXP 	New trial (rep=0, index=9): {'soundFile': u'pi.wav', 'word': 1, 'location': 1, 'repetition': 2, 'trialnum': 10, 'condition': u'S'}
+28.0703 	EXP 	Set  sound=pi.wav
+28.0706 	EXP 	Sound  started
+28.0768 	EXP 	fam_trials_image: autoDraw = False
+28.0768 	EXP 	fam_trials_image: autoDraw = False
+28.0768 	EXP 	fam_trials_image: autoDraw = True
+28.5269 	EXP 	Sound  stopped
+28.5437 	EXP 	Sound  stopped
+28.5440 	EXP 	New trial (rep=0, index=10): {'soundFile': u'tu.wav', 'word': 1, 'location': 2, 'repetition': 2, 'trialnum': 11, 'condition': u'S'}
+28.5452 	EXP 	Set  sound=tu.wav
+28.5456 	EXP 	Sound  started
+28.5519 	EXP 	fam_trials_image: autoDraw = False
+28.5519 	EXP 	fam_trials_image: autoDraw = False
+28.5519 	EXP 	fam_trials_image: autoDraw = True
+29.0021 	EXP 	Sound  stopped
+29.0187 	EXP 	Sound  stopped
+29.0191 	EXP 	New trial (rep=0, index=11): {'soundFile': u'bi.wav', 'word': 1, 'location': 3, 'repetition': 2, 'trialnum': 12, 'condition': u'S'}
+29.0203 	EXP 	Set  sound=bi.wav
+29.0207 	EXP 	Sound  started
+29.0576 	EXP 	fam_trials_image: autoDraw = False
+29.0576 	EXP 	fam_trials_image: autoDraw = False
+29.0576 	EXP 	fam_trials_image: autoDraw = True
+29.4771 	EXP 	Sound  stopped
+29.4938 	EXP 	Sound  stopped
+29.4941 	EXP 	New trial (rep=0, index=12): {'soundFile': u'bu.wav', 'word': 4, 'location': 1, 'repetition': 1, 'trialnum': 13, 'condition': u'S'}
+29.4982 	EXP 	Set  sound=bu.wav
+29.4986 	EXP 	Sound  started
+29.5020 	EXP 	fam_trials_image: autoDraw = False
+29.5020 	EXP 	fam_trials_image: autoDraw = False
+29.5020 	EXP 	fam_trials_image: autoDraw = True
+29.9521 	EXP 	Sound  stopped
+29.9689 	EXP 	Sound  stopped
+29.9692 	EXP 	New trial (rep=0, index=13): {'soundFile': u'pa.wav', 'word': 4, 'location': 2, 'repetition': 1, 'trialnum': 14, 'condition': u'S'}
+29.9717 	EXP 	Set  sound=pa.wav
+29.9721 	EXP 	Sound  started
+29.9771 	EXP 	fam_trials_image: autoDraw = False
+29.9771 	EXP 	fam_trials_image: autoDraw = False
+29.9771 	EXP 	fam_trials_image: autoDraw = True
+30.4273 	EXP 	Sound  stopped
+30.4440 	EXP 	Sound  stopped
+30.4443 	EXP 	New trial (rep=0, index=14): {'soundFile': u'da.wav', 'word': 4, 'location': 3, 'repetition': 1, 'trialnum': 15, 'condition': u'S'}
+30.4494 	EXP 	Set  sound=da.wav
+30.4497 	EXP 	Sound  started
+30.4522 	EXP 	fam_trials_image: autoDraw = False
+30.4522 	EXP 	fam_trials_image: autoDraw = False
+30.4522 	EXP 	fam_trials_image: autoDraw = True
+30.9024 	EXP 	Sound  stopped
+30.9191 	EXP 	Sound  stopped
+30.9194 	EXP 	New trial (rep=0, index=15): {'soundFile': u'di.wav', 'word': 2, 'location': 1, 'repetition': 2, 'trialnum': 16, 'condition': u'S'}
+30.9207 	EXP 	Set  sound=di.wav
+30.9210 	EXP 	Sound  started
+30.9273 	EXP 	fam_trials_image: autoDraw = False
+30.9273 	EXP 	fam_trials_image: autoDraw = False
+30.9273 	EXP 	fam_trials_image: autoDraw = True
+31.3774 	EXP 	Sound  stopped
+31.3942 	EXP 	Sound  stopped
+31.3945 	EXP 	New trial (rep=0, index=16): {'soundFile': u'ba.wav', 'word': 2, 'location': 2, 'repetition': 2, 'trialnum': 17, 'condition': u'S'}
+31.3957 	EXP 	Set  sound=ba.wav
+31.3960 	EXP 	Sound  started
+31.4342 	EXP 	fam_trials_image: autoDraw = False
+31.4342 	EXP 	fam_trials_image: autoDraw = False
+31.4342 	EXP 	fam_trials_image: autoDraw = True
+31.8526 	EXP 	Sound  stopped
+31.8693 	EXP 	Sound  stopped
+31.8696 	EXP 	New trial (rep=0, index=17): {'soundFile': u'pu.wav', 'word': 2, 'location': 3, 'repetition': 2, 'trialnum': 18, 'condition': u'S'}
+31.8709 	EXP 	Set  sound=pu.wav
+31.8712 	EXP 	Sound  started
+31.8775 	EXP 	fam_trials_image: autoDraw = False
+31.8775 	EXP 	fam_trials_image: autoDraw = False
+31.8775 	EXP 	fam_trials_image: autoDraw = True
+32.3276 	EXP 	Sound  stopped
+32.3443 	EXP 	Sound  stopped
+32.3448 	EXP 	New trial (rep=0, index=18): {'soundFile': u'ta.wav', 'word': 3, 'location': 1, 'repetition': 2, 'trialnum': 19, 'condition': u'S'}
+32.3461 	EXP 	Set  sound=ta.wav
+32.3464 	EXP 	Sound  started
+32.3526 	EXP 	fam_trials_image: autoDraw = False
+32.3526 	EXP 	fam_trials_image: autoDraw = False
+32.3526 	EXP 	fam_trials_image: autoDraw = True
+32.8027 	EXP 	Sound  stopped
+32.8194 	EXP 	Sound  stopped
+32.8198 	EXP 	New trial (rep=0, index=19): {'soundFile': u'ti.wav', 'word': 3, 'location': 2, 'repetition': 2, 'trialnum': 20, 'condition': u'S'}
+32.8210 	EXP 	Set  sound=ti.wav
+32.8214 	EXP 	Sound  started
+32.8277 	EXP 	fam_trials_image: autoDraw = False
+32.8277 	EXP 	fam_trials_image: autoDraw = False
+32.8277 	EXP 	fam_trials_image: autoDraw = True
+33.2778 	EXP 	Sound  stopped
+33.2945 	EXP 	Sound  stopped
+33.2948 	EXP 	New trial (rep=0, index=20): {'soundFile': u'du.wav', 'word': 3, 'location': 3, 'repetition': 2, 'trialnum': 21, 'condition': u'S'}
+33.2960 	EXP 	Set  sound=du.wav
+33.2964 	EXP 	Sound  started
+33.3028 	EXP 	fam_trials_image: autoDraw = False
+33.3028 	EXP 	fam_trials_image: autoDraw = False
+33.3028 	EXP 	fam_trials_image: autoDraw = True
+33.7529 	EXP 	Sound  stopped
+33.7696 	EXP 	Sound  stopped
+33.7700 	EXP 	New trial (rep=0, index=21): {'soundFile': u'pi.wav', 'word': 1, 'location': 1, 'repetition': 3, 'trialnum': 22, 'condition': u'S'}
+33.7713 	EXP 	Set  sound=pi.wav
+33.7716 	EXP 	Sound  started
+33.7778 	EXP 	fam_trials_image: autoDraw = False
+33.7778 	EXP 	fam_trials_image: autoDraw = False
+33.7778 	EXP 	fam_trials_image: autoDraw = True
+34.2279 	EXP 	Sound  stopped
+34.2447 	EXP 	Sound  stopped
+34.2450 	EXP 	New trial (rep=0, index=22): {'soundFile': u'tu.wav', 'word': 1, 'location': 2, 'repetition': 3, 'trialnum': 23, 'condition': u'S'}
+34.2462 	EXP 	Set  sound=tu.wav
+34.2466 	EXP 	Sound  started
+34.2529 	EXP 	fam_trials_image: autoDraw = False
+34.2529 	EXP 	fam_trials_image: autoDraw = False
+34.2529 	EXP 	fam_trials_image: autoDraw = True
+34.7030 	EXP 	Sound  stopped
+34.7198 	EXP 	Sound  stopped
+34.7201 	EXP 	New trial (rep=0, index=23): {'soundFile': u'bi.wav', 'word': 1, 'location': 3, 'repetition': 3, 'trialnum': 24, 'condition': u'S'}
+34.7213 	EXP 	Set  sound=bi.wav
+34.7217 	EXP 	Sound  started
+34.7280 	EXP 	fam_trials_image: autoDraw = False
+34.7280 	EXP 	fam_trials_image: autoDraw = False
+34.7280 	EXP 	fam_trials_image: autoDraw = True
+35.1781 	EXP 	Sound  stopped
+35.1948 	EXP 	Sound  stopped
+35.1954 	EXP 	Sound  started
+35.2031 	EXP 	fam_trials_image: autoDraw = False
+35.2031 	EXP 	fam_trials_image: autoDraw = False
+38.0787 	EXP 	Sound  stopped
+38.0835 	EXP 	Imported auditory_run1_2.csv as conditions, 24 conditions, 6 params
+38.0837 	EXP 	Created sequence: sequential, trialTypes=24, nReps=1, seed=None
+38.0840 	EXP 	New trial (rep=0, index=0): {'soundFile': u'1A.wav', 'word': 0, 'location': 1, 'repetition': 1, 'trialnum': 1, 'condition': u'R'}
+38.0874 	EXP 	Set  sound=1A.wav
+38.0877 	EXP 	Sound  started
+38.0886 	EXP 	alien: autoDraw = True
+38.5454 	EXP 	Sound  stopped
+38.5458 	EXP 	New trial (rep=0, index=1): {'soundFile': u'1B.wav', 'word': 0, 'location': 2, 'repetition': 1, 'trialnum': 2, 'condition': u'R'}
+38.5469 	EXP 	Set  sound=1B.wav
+38.5472 	EXP 	Sound  started
+38.5537 	EXP 	alien: autoDraw = False
+38.5537 	EXP 	alien: autoDraw = True
+39.0040 	EXP 	Sound  stopped
+39.0043 	EXP 	New trial (rep=0, index=2): {'soundFile': u'4A.wav', 'word': 0, 'location': 3, 'repetition': 1, 'trialnum': 3, 'condition': u'R'}
+39.0054 	EXP 	Set  sound=4A.wav
+39.0058 	EXP 	Sound  started
+39.0121 	EXP 	alien: autoDraw = False
+39.0121 	EXP 	alien: autoDraw = True
+39.4622 	EXP 	Sound  stopped
+39.4626 	EXP 	New trial (rep=0, index=3): {'soundFile': u'1C.wav', 'word': 0, 'location': 1, 'repetition': 1, 'trialnum': 4, 'condition': u'R'}
+39.4637 	EXP 	Set  sound=1C.wav
+39.4640 	EXP 	Sound  started
+39.4705 	EXP 	alien: autoDraw = False
+39.4705 	EXP 	alien: autoDraw = True
+39.9207 	EXP 	Sound  stopped
+39.9211 	EXP 	New trial (rep=0, index=4): {'soundFile': u'3C.wav', 'word': 0, 'location': 2, 'repetition': 1, 'trialnum': 5, 'condition': u'R'}
+39.9222 	EXP 	Set  sound=3C.wav
+39.9226 	EXP 	Sound  started
+39.9289 	EXP 	alien: autoDraw = False
+39.9289 	EXP 	alien: autoDraw = True
+40.3791 	EXP 	Sound  stopped
+40.3794 	EXP 	New trial (rep=0, index=5): {'soundFile': u'2C.wav', 'word': 0, 'location': 3, 'repetition': 1, 'trialnum': 6, 'condition': u'R'}
+40.3805 	EXP 	Set  sound=2C.wav
+40.3809 	EXP 	Sound  started
+40.3873 	EXP 	alien: autoDraw = False
+40.3873 	EXP 	alien: autoDraw = True
+40.8376 	EXP 	Sound  stopped
+40.8380 	EXP 	New trial (rep=0, index=6): {'soundFile': u'2A.wav', 'word': 0, 'location': 1, 'repetition': 1, 'trialnum': 7, 'condition': u'R'}
+40.8391 	EXP 	Set  sound=2A.wav
+40.8395 	EXP 	Sound  started
+40.8457 	EXP 	alien: autoDraw = False
+40.8457 	EXP 	alien: autoDraw = False
+40.8457 	EXP 	alien: autoDraw = True
+41.2543 	DATA 	Keypress: escape
+12.1366 	WARNING 	User requested fullscreen with size [1366  768], but screen is actually [1920, 1080]. Using actual size
+12.7465 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color='grey', colorSpace='named', fullscr=UNKNOWN, gamma=None, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x205A3CF0>, multiSample=False, name='window1', numSamples=2, pos=[0, 0], screen=0, size=array([1920, 1080]), stereo=False, units=u'norm', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+12.7465 	EXP 	window1: recordFrameIntervals = False
+12.8297 	EXP 	window1: recordFrameIntervals = True
+12.9215 	EXP 	window1: recordFrameIntervals = False
+13.0023 	EXP 	Created text_11 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_11', opacity=1.0, ori=0, pos=array([-0.3,  0. ]), rgb=array([ 0.,  0.,  0.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+13.0074 	EXP 	Created image_15 = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, image='Alien11.BMP', interpolate=True, mask=None, maskParams=None, name='image_15', opacity=1.0, ori=0.0, pos=array([ 0.5,  0. ]), size=array([ 0.3375    ,  0.34444444]), texRes=128, units=u'norm', win=Window(...))
+13.8515 	EXP 	Set  sound=C
+13.8549 	EXP 	Set  sound=reminder_du.wav
+13.8550 	EXP 	Sound  set volume 1.000
+13.8577 	EXP 	Created TA_first = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='TA_first', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 0.,  0.,  0.]), text=u'+', units=u'norm', win=Window(...), wrapWidth=1)
+13.8789 	EXP 	Set  sound=A
+13.8789 	EXP 	Sound  set volume 1.000
+13.8839 	EXP 	Created fam_trials_image = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, image=u'Alien11.BMP', interpolate=True, mask=None, maskParams=None, name='fam_trials_image', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 0.3375    ,  0.34444444]), texRes=128, units=u'norm', win=Window(...))
+13.9051 	EXP 	Set  sound=A
+13.9051 	EXP 	Sound  set volume 1.000
+13.9253 	EXP 	Created alien = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='AlienTrumpet.png', interpolate=True, mask=None, maskParams=None, name='alien', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 0.41666667,  1.02407407]), texRes=128, units=u'norm', win=Window(...))
+13.9375 	EXP 	Created treminder_text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='treminder_text', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 0.,  0.,  0.]), text=u'Now press the button when you hear this!', units=u'norm', win=Window(...), wrapWidth=1)
+13.9405 	EXP 	Set  sound=reminder_1c.wav
+13.9405 	EXP 	Sound  set volume 1.000
+13.9412 	EXP 	window1: blendMode = 'avg'
+13.9744 	EXP 	text_11: autoDraw = True
+13.9744 	EXP 	image_15: autoDraw = True
+13.9747 	EXP 	window1: blendMode = 'avg'
+13.9773 	EXP 	window1: blendMode = 'avg'
+13.9803 	EXP 	window1: blendMode = 'avg'
+13.9887 	EXP 	window1: blendMode = 'avg'
+13.9969 	EXP 	window1: blendMode = 'avg'
+14.0053 	EXP 	window1: blendMode = 'avg'
+14.0137 	EXP 	window1: blendMode = 'avg'
+14.0220 	EXP 	window1: blendMode = 'avg'
+14.0303 	EXP 	window1: blendMode = 'avg'
+14.0387 	EXP 	window1: blendMode = 'avg'
+14.0471 	EXP 	window1: blendMode = 'avg'
+14.0553 	EXP 	window1: blendMode = 'avg'
+14.0637 	EXP 	window1: blendMode = 'avg'
+14.0719 	EXP 	window1: blendMode = 'avg'
+14.0802 	EXP 	window1: blendMode = 'avg'
+14.0887 	EXP 	window1: blendMode = 'avg'
+14.0969 	EXP 	window1: blendMode = 'avg'
+14.1053 	EXP 	window1: blendMode = 'avg'
+14.1137 	EXP 	window1: blendMode = 'avg'
+14.1220 	EXP 	window1: blendMode = 'avg'
+14.1303 	EXP 	window1: blendMode = 'avg'
+14.1388 	EXP 	window1: blendMode = 'avg'
+14.1470 	EXP 	window1: blendMode = 'avg'
+14.1553 	EXP 	window1: blendMode = 'avg'
+14.1637 	EXP 	window1: blendMode = 'avg'
+14.1719 	EXP 	window1: blendMode = 'avg'
+14.1811 	EXP 	window1: blendMode = 'avg'
+14.1886 	EXP 	window1: blendMode = 'avg'
+14.1968 	EXP 	window1: blendMode = 'avg'
+14.2051 	EXP 	window1: blendMode = 'avg'
+14.2135 	EXP 	window1: blendMode = 'avg'
+14.2218 	EXP 	window1: blendMode = 'avg'
+14.2301 	EXP 	window1: blendMode = 'avg'
+14.2385 	EXP 	window1: blendMode = 'avg'
+14.2468 	EXP 	window1: blendMode = 'avg'
+14.2551 	EXP 	window1: blendMode = 'avg'
+14.2635 	EXP 	window1: blendMode = 'avg'
+14.2719 	EXP 	window1: blendMode = 'avg'
+14.2802 	EXP 	window1: blendMode = 'avg'
+14.2885 	EXP 	window1: blendMode = 'avg'
+14.2970 	EXP 	window1: blendMode = 'avg'
+14.3052 	EXP 	window1: blendMode = 'avg'
+14.3136 	EXP 	window1: blendMode = 'avg'
+14.3218 	EXP 	window1: blendMode = 'avg'
+14.3302 	EXP 	window1: blendMode = 'avg'
+14.3385 	EXP 	window1: blendMode = 'avg'
+14.3468 	EXP 	window1: blendMode = 'avg'
+14.3551 	EXP 	window1: blendMode = 'avg'
+14.3636 	EXP 	window1: blendMode = 'avg'
+14.3718 	EXP 	window1: blendMode = 'avg'
+14.3802 	EXP 	window1: blendMode = 'avg'
+14.3887 	EXP 	window1: blendMode = 'avg'
+14.3968 	EXP 	window1: blendMode = 'avg'
+14.4052 	EXP 	window1: blendMode = 'avg'
+14.4135 	EXP 	window1: blendMode = 'avg'
+14.4218 	EXP 	window1: blendMode = 'avg'
+14.4302 	EXP 	window1: blendMode = 'avg'
+14.4386 	EXP 	window1: blendMode = 'avg'
+14.4469 	EXP 	window1: blendMode = 'avg'
+14.4552 	EXP 	window1: blendMode = 'avg'
+14.4636 	EXP 	window1: blendMode = 'avg'
+14.4719 	EXP 	window1: blendMode = 'avg'
+14.4802 	EXP 	window1: blendMode = 'avg'
+14.4887 	EXP 	window1: blendMode = 'avg'
+14.4969 	EXP 	window1: blendMode = 'avg'
+14.5052 	EXP 	window1: blendMode = 'avg'
+14.5136 	EXP 	window1: blendMode = 'avg'
+14.5219 	EXP 	window1: blendMode = 'avg'
+14.5302 	EXP 	window1: blendMode = 'avg'
+14.5386 	EXP 	window1: blendMode = 'avg'
+14.5469 	EXP 	window1: blendMode = 'avg'
+14.5553 	EXP 	window1: blendMode = 'avg'
+14.5636 	EXP 	window1: blendMode = 'avg'
+14.5719 	EXP 	window1: blendMode = 'avg'
+14.5803 	EXP 	window1: blendMode = 'avg'
+14.5886 	EXP 	window1: blendMode = 'avg'
+14.5969 	EXP 	window1: blendMode = 'avg'
+14.6052 	EXP 	window1: blendMode = 'avg'
+14.6136 	EXP 	window1: blendMode = 'avg'
+14.6219 	EXP 	window1: blendMode = 'avg'
+14.6302 	EXP 	window1: blendMode = 'avg'
+14.6386 	EXP 	window1: blendMode = 'avg'
+14.6469 	EXP 	window1: blendMode = 'avg'
+14.6553 	EXP 	window1: blendMode = 'avg'
+14.6636 	EXP 	window1: blendMode = 'avg'
+14.6719 	EXP 	window1: blendMode = 'avg'
+14.6802 	EXP 	window1: blendMode = 'avg'
+14.6886 	EXP 	window1: blendMode = 'avg'
+14.6969 	EXP 	window1: blendMode = 'avg'
+14.7052 	EXP 	window1: blendMode = 'avg'
+14.7136 	EXP 	window1: blendMode = 'avg'
+14.7219 	EXP 	window1: blendMode = 'avg'
+14.7302 	EXP 	window1: blendMode = 'avg'
+14.7387 	EXP 	window1: blendMode = 'avg'
+14.7469 	EXP 	window1: blendMode = 'avg'
+14.7553 	EXP 	window1: blendMode = 'avg'
+14.7636 	EXP 	window1: blendMode = 'avg'
+14.7719 	EXP 	window1: blendMode = 'avg'
+14.7803 	EXP 	window1: blendMode = 'avg'
+14.7886 	EXP 	window1: blendMode = 'avg'
+14.7969 	EXP 	window1: blendMode = 'avg'
+14.8053 	EXP 	window1: blendMode = 'avg'
+14.8136 	EXP 	window1: blendMode = 'avg'
+14.8219 	EXP 	window1: blendMode = 'avg'
+14.8303 	EXP 	window1: blendMode = 'avg'
+14.8386 	EXP 	window1: blendMode = 'avg'
+14.8469 	EXP 	window1: blendMode = 'avg'
+14.8553 	EXP 	window1: blendMode = 'avg'
+14.8636 	EXP 	window1: blendMode = 'avg'
+14.8720 	EXP 	window1: blendMode = 'avg'
+14.8803 	EXP 	window1: blendMode = 'avg'
+14.8887 	EXP 	window1: blendMode = 'avg'
+14.8970 	EXP 	window1: blendMode = 'avg'
+14.9053 	EXP 	window1: blendMode = 'avg'
+14.9136 	EXP 	window1: blendMode = 'avg'
+14.9219 	EXP 	window1: blendMode = 'avg'
+14.9303 	EXP 	window1: blendMode = 'avg'
+14.9387 	EXP 	window1: blendMode = 'avg'
+14.9469 	EXP 	window1: blendMode = 'avg'
+14.9553 	EXP 	window1: blendMode = 'avg'
+14.9636 	EXP 	window1: blendMode = 'avg'
+14.9719 	EXP 	window1: blendMode = 'avg'
+14.9802 	EXP 	window1: blendMode = 'avg'
+14.9886 	EXP 	window1: blendMode = 'avg'
+14.9969 	EXP 	window1: blendMode = 'avg'
+15.0053 	EXP 	window1: blendMode = 'avg'
+15.0136 	EXP 	window1: blendMode = 'avg'
+15.0219 	EXP 	window1: blendMode = 'avg'
+15.0303 	EXP 	window1: blendMode = 'avg'
+15.0386 	EXP 	window1: blendMode = 'avg'
+15.0469 	EXP 	window1: blendMode = 'avg'
+15.0553 	EXP 	window1: blendMode = 'avg'
+15.0637 	EXP 	window1: blendMode = 'avg'
+15.0719 	EXP 	window1: blendMode = 'avg'
+15.0803 	EXP 	window1: blendMode = 'avg'
+15.0886 	EXP 	window1: blendMode = 'avg'
+15.0969 	EXP 	window1: blendMode = 'avg'
+15.1053 	EXP 	window1: blendMode = 'avg'
+15.1137 	EXP 	window1: blendMode = 'avg'
+15.1220 	EXP 	window1: blendMode = 'avg'
+15.1303 	EXP 	window1: blendMode = 'avg'
+15.1387 	EXP 	window1: blendMode = 'avg'
+15.1470 	EXP 	window1: blendMode = 'avg'
+15.1553 	EXP 	window1: blendMode = 'avg'
+15.1637 	EXP 	window1: blendMode = 'avg'
+15.1720 	EXP 	window1: blendMode = 'avg'
+15.1803 	EXP 	window1: blendMode = 'avg'
+15.1886 	EXP 	window1: blendMode = 'avg'
+15.1969 	EXP 	window1: blendMode = 'avg'
+15.2053 	EXP 	window1: blendMode = 'avg'
+15.2137 	EXP 	window1: blendMode = 'avg'
+15.2220 	EXP 	window1: blendMode = 'avg'
+15.2303 	EXP 	window1: blendMode = 'avg'
+15.2387 	EXP 	window1: blendMode = 'avg'
+15.2470 	EXP 	window1: blendMode = 'avg'
+15.2553 	EXP 	window1: blendMode = 'avg'
+15.2637 	EXP 	window1: blendMode = 'avg'
+15.2720 	EXP 	window1: blendMode = 'avg'
+15.2803 	EXP 	window1: blendMode = 'avg'
+15.2887 	EXP 	window1: blendMode = 'avg'
+15.2970 	EXP 	window1: blendMode = 'avg'
+15.3053 	EXP 	window1: blendMode = 'avg'
+15.3137 	EXP 	window1: blendMode = 'avg'
+15.3220 	EXP 	window1: blendMode = 'avg'
+15.3304 	EXP 	window1: blendMode = 'avg'
+15.3386 	EXP 	window1: blendMode = 'avg'
+15.3470 	EXP 	window1: blendMode = 'avg'
+15.3553 	EXP 	window1: blendMode = 'avg'
+15.3638 	EXP 	window1: blendMode = 'avg'
+15.3721 	EXP 	window1: blendMode = 'avg'
+15.3803 	EXP 	window1: blendMode = 'avg'
+15.3887 	EXP 	window1: blendMode = 'avg'
+15.3971 	EXP 	window1: blendMode = 'avg'
+15.4054 	EXP 	window1: blendMode = 'avg'
+15.4137 	EXP 	window1: blendMode = 'avg'
+15.4220 	EXP 	window1: blendMode = 'avg'
+15.4303 	EXP 	window1: blendMode = 'avg'
+15.4387 	EXP 	window1: blendMode = 'avg'
+15.4470 	EXP 	window1: blendMode = 'avg'
+15.4554 	EXP 	window1: blendMode = 'avg'
+15.4637 	EXP 	window1: blendMode = 'avg'
+15.4720 	EXP 	window1: blendMode = 'avg'
+15.4803 	EXP 	window1: blendMode = 'avg'
+15.4890 	EXP 	window1: blendMode = 'avg'
+15.4971 	EXP 	window1: blendMode = 'avg'
+15.5054 	EXP 	window1: blendMode = 'avg'
+15.5139 	EXP 	window1: blendMode = 'avg'
+15.5220 	EXP 	window1: blendMode = 'avg'
+15.5304 	EXP 	window1: blendMode = 'avg'
+15.5390 	EXP 	window1: blendMode = 'avg'
+15.5471 	EXP 	window1: blendMode = 'avg'
+15.5554 	EXP 	window1: blendMode = 'avg'
+15.5638 	EXP 	window1: blendMode = 'avg'
+15.5721 	EXP 	window1: blendMode = 'avg'
+15.5804 	EXP 	window1: blendMode = 'avg'
+15.5888 	EXP 	window1: blendMode = 'avg'
+15.5971 	EXP 	window1: blendMode = 'avg'
+15.6054 	EXP 	window1: blendMode = 'avg'
+15.6138 	EXP 	window1: blendMode = 'avg'
+15.6221 	EXP 	window1: blendMode = 'avg'
+15.6304 	EXP 	window1: blendMode = 'avg'
+15.6388 	EXP 	window1: blendMode = 'avg'
+15.6471 	EXP 	window1: blendMode = 'avg'
+15.6554 	EXP 	window1: blendMode = 'avg'
+15.6638 	EXP 	window1: blendMode = 'avg'
+15.6721 	EXP 	window1: blendMode = 'avg'
+15.6804 	EXP 	window1: blendMode = 'avg'
+15.6887 	EXP 	window1: blendMode = 'avg'
+15.6970 	EXP 	window1: blendMode = 'avg'
+15.7054 	EXP 	window1: blendMode = 'avg'
+15.7137 	EXP 	window1: blendMode = 'avg'
+15.7220 	EXP 	window1: blendMode = 'avg'
+15.7304 	EXP 	window1: blendMode = 'avg'
+15.7389 	EXP 	window1: blendMode = 'avg'
+15.7471 	EXP 	window1: blendMode = 'avg'
+15.7554 	EXP 	window1: blendMode = 'avg'
+15.7638 	EXP 	window1: blendMode = 'avg'
+15.7721 	EXP 	window1: blendMode = 'avg'
+15.7805 	EXP 	window1: blendMode = 'avg'
+15.7888 	EXP 	window1: blendMode = 'avg'
+15.7971 	EXP 	window1: blendMode = 'avg'
+15.8054 	EXP 	window1: blendMode = 'avg'
+15.8138 	EXP 	window1: blendMode = 'avg'
+15.8221 	EXP 	window1: blendMode = 'avg'
+15.8304 	EXP 	window1: blendMode = 'avg'
+15.8387 	EXP 	window1: blendMode = 'avg'
+15.8471 	EXP 	window1: blendMode = 'avg'
+15.8554 	EXP 	window1: blendMode = 'avg'
+15.8639 	EXP 	window1: blendMode = 'avg'
+15.8721 	EXP 	window1: blendMode = 'avg'
+15.8805 	EXP 	window1: blendMode = 'avg'
+15.8888 	EXP 	window1: blendMode = 'avg'
+15.8972 	EXP 	window1: blendMode = 'avg'
+15.9055 	EXP 	window1: blendMode = 'avg'
+15.9138 	EXP 	window1: blendMode = 'avg'
+15.9221 	EXP 	window1: blendMode = 'avg'
+15.9305 	EXP 	window1: blendMode = 'avg'
+15.9390 	EXP 	window1: blendMode = 'avg'
+15.9472 	EXP 	window1: blendMode = 'avg'
+15.9555 	EXP 	window1: blendMode = 'avg'
+15.9639 	EXP 	window1: blendMode = 'avg'
+15.9721 	EXP 	window1: blendMode = 'avg'
+15.9805 	EXP 	window1: blendMode = 'avg'
+15.9889 	EXP 	window1: blendMode = 'avg'
+15.9972 	EXP 	window1: blendMode = 'avg'
+16.0055 	EXP 	window1: blendMode = 'avg'
+16.0139 	EXP 	window1: blendMode = 'avg'
+16.0221 	EXP 	window1: blendMode = 'avg'
+16.0305 	EXP 	window1: blendMode = 'avg'
+16.0389 	EXP 	window1: blendMode = 'avg'
+16.0471 	EXP 	window1: blendMode = 'avg'
+16.0555 	EXP 	window1: blendMode = 'avg'
+16.0638 	EXP 	window1: blendMode = 'avg'
+16.0721 	EXP 	window1: blendMode = 'avg'
+16.0805 	EXP 	window1: blendMode = 'avg'
+16.0888 	EXP 	window1: blendMode = 'avg'
+16.0972 	EXP 	window1: blendMode = 'avg'
+16.1055 	EXP 	window1: blendMode = 'avg'
+16.1139 	EXP 	window1: blendMode = 'avg'
+16.1222 	EXP 	window1: blendMode = 'avg'
+16.1305 	EXP 	window1: blendMode = 'avg'
+16.1389 	EXP 	window1: blendMode = 'avg'
+16.1472 	EXP 	window1: blendMode = 'avg'
+16.1555 	EXP 	window1: blendMode = 'avg'
+16.1638 	EXP 	window1: blendMode = 'avg'
+16.1722 	EXP 	window1: blendMode = 'avg'
+16.1805 	EXP 	window1: blendMode = 'avg'
+16.1889 	EXP 	window1: blendMode = 'avg'
+16.1972 	EXP 	window1: blendMode = 'avg'
+16.2055 	EXP 	window1: blendMode = 'avg'
+16.2138 	EXP 	window1: blendMode = 'avg'
+16.2222 	EXP 	window1: blendMode = 'avg'
+16.2305 	EXP 	window1: blendMode = 'avg'
+16.2388 	EXP 	window1: blendMode = 'avg'
+16.2472 	EXP 	window1: blendMode = 'avg'
+16.2555 	EXP 	window1: blendMode = 'avg'
+16.2638 	EXP 	window1: blendMode = 'avg'
+16.2722 	EXP 	window1: blendMode = 'avg'
+16.2805 	EXP 	window1: blendMode = 'avg'
+16.2889 	EXP 	window1: blendMode = 'avg'
+16.2972 	EXP 	window1: blendMode = 'avg'
+16.3055 	EXP 	window1: blendMode = 'avg'
+16.3139 	EXP 	window1: blendMode = 'avg'
+16.3222 	EXP 	window1: blendMode = 'avg'
+16.3305 	EXP 	window1: blendMode = 'avg'
+16.3388 	EXP 	window1: blendMode = 'avg'
+16.3472 	EXP 	window1: blendMode = 'avg'
+16.3555 	EXP 	window1: blendMode = 'avg'
+16.3639 	EXP 	window1: blendMode = 'avg'
+16.3722 	EXP 	window1: blendMode = 'avg'
+16.3805 	EXP 	window1: blendMode = 'avg'
+16.3888 	EXP 	window1: blendMode = 'avg'
+16.3973 	EXP 	window1: blendMode = 'avg'
+16.4056 	EXP 	window1: blendMode = 'avg'
+16.4139 	EXP 	window1: blendMode = 'avg'
+16.4222 	EXP 	window1: blendMode = 'avg'
+16.4305 	EXP 	window1: blendMode = 'avg'
+16.4389 	EXP 	window1: blendMode = 'avg'
+16.4472 	EXP 	window1: blendMode = 'avg'
+16.4555 	EXP 	window1: blendMode = 'avg'
+16.4639 	EXP 	window1: blendMode = 'avg'
+16.4722 	EXP 	window1: blendMode = 'avg'
+16.4805 	EXP 	window1: blendMode = 'avg'
+16.4889 	EXP 	window1: blendMode = 'avg'
+16.4973 	EXP 	window1: blendMode = 'avg'
+16.5056 	EXP 	window1: blendMode = 'avg'
+16.5139 	EXP 	window1: blendMode = 'avg'
+16.5222 	EXP 	window1: blendMode = 'avg'
+16.5306 	EXP 	window1: blendMode = 'avg'
+16.5389 	EXP 	window1: blendMode = 'avg'
+16.5473 	EXP 	window1: blendMode = 'avg'
+16.5556 	DATA 	Keypress: 6
+16.5558 	EXP 	window1: blendMode = 'avg'
+16.5639 	EXP 	window1: blendMode = 'avg'
+16.5722 	EXP 	window1: blendMode = 'avg'
+16.5807 	EXP 	window1: blendMode = 'avg'
+16.5889 	EXP 	window1: blendMode = 'avg'
+16.5973 	EXP 	window1: blendMode = 'avg'
+16.6056 	EXP 	window1: blendMode = 'avg'
+16.6140 	EXP 	window1: blendMode = 'avg'
+16.6223 	EXP 	window1: blendMode = 'avg'
+16.6306 	EXP 	window1: blendMode = 'avg'
+16.6390 	EXP 	window1: blendMode = 'avg'
+16.6473 	EXP 	window1: blendMode = 'avg'
+16.6556 	EXP 	window1: blendMode = 'avg'
+16.6640 	EXP 	window1: blendMode = 'avg'
+16.6722 	EXP 	window1: blendMode = 'avg'
+16.6806 	EXP 	window1: blendMode = 'avg'
+16.6892 	EXP 	window1: blendMode = 'avg'
+16.6973 	EXP 	window1: blendMode = 'avg'
+16.7056 	EXP 	window1: blendMode = 'avg'
+16.7140 	EXP 	window1: blendMode = 'avg'
+16.7223 	EXP 	window1: blendMode = 'avg'
+16.7306 	EXP 	window1: blendMode = 'avg'
+16.7390 	EXP 	window1: blendMode = 'avg'
+16.7474 	EXP 	window1: blendMode = 'avg'
+16.7557 	EXP 	window1: blendMode = 'avg'
+16.7640 	EXP 	window1: blendMode = 'avg'
+16.7723 	EXP 	window1: blendMode = 'avg'
+16.7806 	EXP 	window1: blendMode = 'avg'
+16.7890 	EXP 	window1: blendMode = 'avg'
+16.7973 	EXP 	window1: blendMode = 'avg'
+16.8057 	EXP 	window1: blendMode = 'avg'
+16.8140 	EXP 	window1: blendMode = 'avg'
+16.8223 	EXP 	window1: blendMode = 'avg'
+16.8306 	EXP 	window1: blendMode = 'avg'
+16.8390 	EXP 	window1: blendMode = 'avg'
+16.8473 	EXP 	window1: blendMode = 'avg'
+16.8556 	EXP 	window1: blendMode = 'avg'
+16.8640 	EXP 	window1: blendMode = 'avg'
+16.8724 	EXP 	window1: blendMode = 'avg'
+16.8807 	EXP 	window1: blendMode = 'avg'
+16.8891 	EXP 	window1: blendMode = 'avg'
+16.8973 	EXP 	window1: blendMode = 'avg'
+16.9059 	EXP 	window1: blendMode = 'avg'
+16.9140 	EXP 	window1: blendMode = 'avg'
+16.9223 	EXP 	window1: blendMode = 'avg'
+16.9306 	EXP 	window1: blendMode = 'avg'
+16.9390 	EXP 	window1: blendMode = 'avg'
+16.9473 	EXP 	window1: blendMode = 'avg'
+16.9558 	EXP 	window1: blendMode = 'avg'
+16.9641 	EXP 	window1: blendMode = 'avg'
+16.9723 	EXP 	window1: blendMode = 'avg'
+16.9807 	EXP 	window1: blendMode = 'avg'
+16.9890 	EXP 	window1: blendMode = 'avg'
+16.9973 	EXP 	window1: blendMode = 'avg'
+17.0057 	EXP 	window1: blendMode = 'avg'
+17.0140 	EXP 	window1: blendMode = 'avg'
+17.0223 	EXP 	window1: blendMode = 'avg'
+17.0307 	EXP 	window1: blendMode = 'avg'
+17.0390 	EXP 	window1: blendMode = 'avg'
+17.0473 	EXP 	window1: blendMode = 'avg'
+17.0557 	EXP 	window1: blendMode = 'avg'
+17.0641 	EXP 	window1: blendMode = 'avg'
+17.0723 	EXP 	window1: blendMode = 'avg'
+17.0807 	EXP 	window1: blendMode = 'avg'
+17.0890 	EXP 	window1: blendMode = 'avg'
+17.0973 	EXP 	window1: blendMode = 'avg'
+17.1057 	EXP 	window1: blendMode = 'avg'
+17.1141 	EXP 	window1: blendMode = 'avg'
+17.1223 	EXP 	window1: blendMode = 'avg'
+17.1307 	EXP 	window1: blendMode = 'avg'
+17.1390 	EXP 	window1: blendMode = 'avg'
+17.1473 	EXP 	window1: blendMode = 'avg'
+17.1557 	EXP 	window1: blendMode = 'avg'
+17.1640 	EXP 	window1: blendMode = 'avg'
+17.1723 	EXP 	window1: blendMode = 'avg'
+17.1807 	EXP 	window1: blendMode = 'avg'
+17.1890 	EXP 	window1: blendMode = 'avg'
+17.1973 	EXP 	window1: blendMode = 'avg'
+17.2057 	EXP 	window1: blendMode = 'avg'
+17.2140 	EXP 	window1: blendMode = 'avg'
+17.2223 	EXP 	window1: blendMode = 'avg'
+17.2307 	EXP 	window1: blendMode = 'avg'
+17.2390 	EXP 	window1: blendMode = 'avg'
+17.2473 	EXP 	window1: blendMode = 'avg'
+17.2557 	EXP 	window1: blendMode = 'avg'
+17.2640 	EXP 	window1: blendMode = 'avg'
+17.2723 	EXP 	window1: blendMode = 'avg'
+17.2807 	EXP 	window1: blendMode = 'avg'
+17.2890 	EXP 	window1: blendMode = 'avg'
+17.2973 	EXP 	window1: blendMode = 'avg'
+17.3057 	EXP 	window1: blendMode = 'avg'
+17.3140 	EXP 	window1: blendMode = 'avg'
+17.3223 	EXP 	window1: blendMode = 'avg'
+17.3307 	EXP 	window1: blendMode = 'avg'
+17.3390 	EXP 	window1: blendMode = 'avg'
+17.3474 	EXP 	window1: blendMode = 'avg'
+17.3557 	EXP 	window1: blendMode = 'avg'
+17.3640 	DATA 	Keypress: space
+17.3642 	EXP 	window1: blendMode = 'avg'
+17.3724 	EXP 	window1: blendMode = 'avg'
+17.3807 	EXP 	window1: blendMode = 'avg'
+17.3890 	EXP 	window1: blendMode = 'avg'
+17.3974 	EXP 	window1: blendMode = 'avg'
+17.4059 	EXP 	window1: blendMode = 'avg'
+17.4141 	EXP 	window1: blendMode = 'avg'
+17.4224 	EXP 	window1: blendMode = 'avg'
+17.4307 	EXP 	window1: blendMode = 'avg'
+17.4391 	EXP 	window1: blendMode = 'avg'
+17.4474 	EXP 	window1: blendMode = 'avg'
+17.4557 	EXP 	window1: blendMode = 'avg'
+17.4641 	EXP 	window1: blendMode = 'avg'
+17.4724 	EXP 	window1: blendMode = 'avg'
+17.4808 	EXP 	window1: blendMode = 'avg'
+17.4890 	EXP 	window1: blendMode = 'avg'
+17.4974 	EXP 	window1: blendMode = 'avg'
+17.5057 	EXP 	window1: blendMode = 'avg'
+17.5140 	EXP 	window1: blendMode = 'avg'
+17.5224 	EXP 	window1: blendMode = 'avg'
+17.5307 	EXP 	window1: blendMode = 'avg'
+17.5391 	EXP 	window1: blendMode = 'avg'
+17.5474 	EXP 	window1: blendMode = 'avg'
+17.5557 	EXP 	window1: blendMode = 'avg'
+17.5641 	EXP 	window1: blendMode = 'avg'
+17.5724 	EXP 	window1: blendMode = 'avg'
+17.5809 	EXP 	window1: blendMode = 'avg'
+17.5891 	EXP 	window1: blendMode = 'avg'
+17.5974 	EXP 	window1: blendMode = 'avg'
+17.6057 	EXP 	window1: blendMode = 'avg'
+17.6142 	EXP 	window1: blendMode = 'avg'
+17.6224 	EXP 	window1: blendMode = 'avg'
+17.6308 	EXP 	window1: blendMode = 'avg'
+17.6391 	EXP 	window1: blendMode = 'avg'
+17.6474 	EXP 	window1: blendMode = 'avg'
+17.6558 	EXP 	window1: blendMode = 'avg'
+17.6641 	EXP 	window1: blendMode = 'avg'
+17.6724 	EXP 	window1: blendMode = 'avg'
+17.6807 	EXP 	window1: blendMode = 'avg'
+17.6891 	EXP 	window1: blendMode = 'avg'
+17.6974 	EXP 	window1: blendMode = 'avg'
+17.7057 	EXP 	window1: blendMode = 'avg'
+17.7141 	EXP 	window1: blendMode = 'avg'
+17.7224 	EXP 	window1: blendMode = 'avg'
+17.7308 	EXP 	window1: blendMode = 'avg'
+17.7391 	EXP 	window1: blendMode = 'avg'
+17.7475 	EXP 	window1: blendMode = 'avg'
+17.7558 	EXP 	window1: blendMode = 'avg'
+17.7641 	EXP 	window1: blendMode = 'avg'
+17.7724 	EXP 	window1: blendMode = 'avg'
+17.7808 	EXP 	window1: blendMode = 'avg'
+17.7891 	EXP 	window1: blendMode = 'avg'
+17.7974 	EXP 	window1: blendMode = 'avg'
+17.8057 	EXP 	window1: blendMode = 'avg'
+17.8141 	EXP 	window1: blendMode = 'avg'
+17.8224 	EXP 	window1: blendMode = 'avg'
+17.8308 	EXP 	window1: blendMode = 'avg'
+17.8391 	EXP 	window1: blendMode = 'avg'
+17.8474 	EXP 	window1: blendMode = 'avg'
+17.8558 	EXP 	window1: blendMode = 'avg'
+17.8642 	EXP 	window1: blendMode = 'avg'
+17.8725 	EXP 	window1: blendMode = 'avg'
+17.8809 	EXP 	window1: blendMode = 'avg'
+17.8892 	EXP 	window1: blendMode = 'avg'
+17.8975 	EXP 	window1: blendMode = 'avg'
+17.9059 	EXP 	window1: blendMode = 'avg'
+17.9141 	EXP 	window1: blendMode = 'avg'
+17.9224 	EXP 	window1: blendMode = 'avg'
+17.9308 	EXP 	window1: blendMode = 'avg'
+17.9391 	EXP 	window1: blendMode = 'avg'
+17.9474 	EXP 	window1: blendMode = 'avg'
+17.9558 	EXP 	window1: blendMode = 'avg'
+17.9641 	EXP 	window1: blendMode = 'avg'
+17.9725 	EXP 	window1: blendMode = 'avg'
+17.9808 	EXP 	window1: blendMode = 'avg'
+17.9891 	EXP 	window1: blendMode = 'avg'
+17.9975 	EXP 	window1: blendMode = 'avg'
+18.0058 	EXP 	window1: blendMode = 'avg'
+18.0141 	EXP 	window1: blendMode = 'avg'
+18.0225 	EXP 	window1: blendMode = 'avg'
+18.0308 	EXP 	window1: blendMode = 'avg'
+18.0391 	EXP 	window1: blendMode = 'avg'
+18.0475 	EXP 	window1: blendMode = 'avg'
+18.0558 	EXP 	window1: blendMode = 'avg'
+18.0642 	EXP 	window1: blendMode = 'avg'
+18.0725 	EXP 	window1: blendMode = 'avg'
+18.0808 	EXP 	window1: blendMode = 'avg'
+18.0891 	EXP 	window1: blendMode = 'avg'
+18.0975 	EXP 	window1: blendMode = 'avg'
+18.1058 	EXP 	window1: blendMode = 'avg'
+18.1142 	EXP 	window1: blendMode = 'avg'
+18.1225 	EXP 	window1: blendMode = 'avg'
+18.1308 	EXP 	window1: blendMode = 'avg'
+18.1392 	EXP 	window1: blendMode = 'avg'
+18.1475 	EXP 	window1: blendMode = 'avg'
+18.1559 	EXP 	window1: blendMode = 'avg'
+18.1642 	EXP 	window1: blendMode = 'avg'
+18.1725 	EXP 	window1: blendMode = 'avg'
+18.1808 	EXP 	window1: blendMode = 'avg'
+18.1892 	EXP 	window1: blendMode = 'avg'
+18.1975 	EXP 	window1: blendMode = 'avg'
+18.2059 	EXP 	window1: blendMode = 'avg'
+18.2142 	EXP 	window1: blendMode = 'avg'
+18.2225 	EXP 	window1: blendMode = 'avg'
+18.2309 	EXP 	window1: blendMode = 'avg'
+18.2392 	EXP 	window1: blendMode = 'avg'
+18.2475 	EXP 	window1: blendMode = 'avg'
+18.2558 	EXP 	window1: blendMode = 'avg'
+18.2642 	EXP 	window1: blendMode = 'avg'
+18.2725 	EXP 	window1: blendMode = 'avg'
+18.2809 	EXP 	window1: blendMode = 'avg'
+18.2892 	EXP 	window1: blendMode = 'avg'
+18.2975 	EXP 	window1: blendMode = 'avg'
+18.3059 	EXP 	window1: blendMode = 'avg'
+18.3142 	EXP 	window1: blendMode = 'avg'
+18.3225 	EXP 	window1: blendMode = 'avg'
+18.3309 	EXP 	window1: blendMode = 'avg'
+18.3392 	EXP 	window1: blendMode = 'avg'
+18.3475 	EXP 	window1: blendMode = 'avg'
+18.3559 	EXP 	window1: blendMode = 'avg'
+18.3642 	EXP 	window1: blendMode = 'avg'
+18.3726 	EXP 	window1: blendMode = 'avg'
+18.3809 	EXP 	window1: blendMode = 'avg'
+18.3892 	EXP 	window1: blendMode = 'avg'
+18.3975 	EXP 	window1: blendMode = 'avg'
+18.4061 	EXP 	window1: blendMode = 'avg'
+18.4143 	EXP 	window1: blendMode = 'avg'
+18.4227 	EXP 	window1: blendMode = 'avg'
+18.4310 	EXP 	window1: blendMode = 'avg'
+18.4393 	EXP 	window1: blendMode = 'avg'
+18.4476 	EXP 	window1: blendMode = 'avg'
+18.4559 	EXP 	window1: blendMode = 'avg'
+18.4643 	EXP 	window1: blendMode = 'avg'
+18.4726 	EXP 	window1: blendMode = 'avg'
+18.4809 	EXP 	window1: blendMode = 'avg'
+18.4893 	EXP 	window1: blendMode = 'avg'
+18.4976 	EXP 	window1: blendMode = 'avg'
+18.5060 	EXP 	window1: blendMode = 'avg'
+18.5143 	EXP 	window1: blendMode = 'avg'
+18.5226 	EXP 	window1: blendMode = 'avg'
+18.5310 	EXP 	window1: blendMode = 'avg'
+18.5393 	EXP 	window1: blendMode = 'avg'
+18.5476 	EXP 	window1: blendMode = 'avg'
+18.5560 	EXP 	window1: blendMode = 'avg'
+18.5643 	EXP 	window1: blendMode = 'avg'
+18.5726 	EXP 	window1: blendMode = 'avg'
+18.5810 	EXP 	window1: blendMode = 'avg'
+18.5893 	EXP 	window1: blendMode = 'avg'
+18.5976 	EXP 	window1: blendMode = 'avg'
+18.6059 	EXP 	window1: blendMode = 'avg'
+18.6143 	EXP 	window1: blendMode = 'avg'
+18.6226 	EXP 	window1: blendMode = 'avg'
+18.6309 	EXP 	window1: blendMode = 'avg'
+18.6393 	EXP 	window1: blendMode = 'avg'
+18.6476 	EXP 	window1: blendMode = 'avg'
+18.6560 	EXP 	window1: blendMode = 'avg'
+18.6643 	EXP 	window1: blendMode = 'avg'
+18.6726 	DATA 	Keypress: 5
+18.6731 	EXP 	Sound  started
+18.6807 	EXP 	text_11: autoDraw = False
+18.6807 	EXP 	image_15: autoDraw = False
+21.5480 	EXP 	Sound  stopped
+21.5505 	EXP 	Imported auditory_run1_1.csv as conditions, 24 conditions, 6 params
+21.5507 	EXP 	Created sequence: sequential, trialTypes=24, nReps=1, seed=None
+21.5510 	EXP 	New trial (rep=0, index=0): {'soundFile': u'pi.wav', 'word': 1, 'location': 1, 'repetition': 1, 'trialnum': 1, 'condition': u'S'}
+21.5543 	EXP 	Set  sound=pi.wav
+21.5547 	EXP 	Sound  started
+21.5563 	EXP 	fam_trials_image: autoDraw = True
+22.0064 	EXP 	Sound  stopped
+22.0315 	EXP 	Sound  stopped
+22.0319 	EXP 	New trial (rep=0, index=1): {'soundFile': u'tu.wav', 'word': 1, 'location': 2, 'repetition': 1, 'trialnum': 2, 'condition': u'S'}
+22.0331 	EXP 	Set  sound=tu.wav
+22.0334 	EXP 	Sound  started
+22.0397 	EXP 	fam_trials_image: autoDraw = False
+22.0397 	EXP 	fam_trials_image: autoDraw = True
+22.4898 	EXP 	Sound  stopped
+22.5066 	EXP 	Sound  stopped
+22.5069 	EXP 	New trial (rep=0, index=2): {'soundFile': u'bi.wav', 'word': 1, 'location': 3, 'repetition': 1, 'trialnum': 3, 'condition': u'S'}
+22.5081 	EXP 	Set  sound=bi.wav
+22.5084 	EXP 	Sound  started
+22.5148 	EXP 	fam_trials_image: autoDraw = False
+22.5148 	EXP 	fam_trials_image: autoDraw = False
+22.5148 	EXP 	fam_trials_image: autoDraw = True
+22.9649 	EXP 	Sound  stopped
+22.9816 	EXP 	Sound  stopped
+22.9819 	EXP 	New trial (rep=0, index=3): {'soundFile': u'di.wav', 'word': 2, 'location': 1, 'repetition': 1, 'trialnum': 4, 'condition': u'S'}
+22.9831 	EXP 	Set  sound=di.wav
+22.9835 	EXP 	Sound  started
+22.9899 	EXP 	fam_trials_image: autoDraw = False
+22.9899 	EXP 	fam_trials_image: autoDraw = False
+22.9899 	EXP 	fam_trials_image: autoDraw = True
+23.4400 	EXP 	Sound  stopped
+23.4567 	EXP 	Sound  stopped
+23.4570 	EXP 	New trial (rep=0, index=4): {'soundFile': u'ba.wav', 'word': 2, 'location': 2, 'repetition': 1, 'trialnum': 5, 'condition': u'S'}
+23.4582 	EXP 	Set  sound=ba.wav
+23.4586 	EXP 	Sound  started
+23.4649 	EXP 	fam_trials_image: autoDraw = False
+23.4649 	EXP 	fam_trials_image: autoDraw = False
+23.4649 	EXP 	fam_trials_image: autoDraw = True
+23.9151 	EXP 	Sound  stopped
+23.9319 	EXP 	Sound  stopped
+23.9322 	EXP 	New trial (rep=0, index=5): {'soundFile': u'pu.wav', 'word': 2, 'location': 3, 'repetition': 1, 'trialnum': 6, 'condition': u'S'}
+23.9334 	EXP 	Set  sound=pu.wav
+23.9337 	EXP 	Sound  started
+23.9400 	EXP 	fam_trials_image: autoDraw = False
+23.9400 	EXP 	fam_trials_image: autoDraw = False
+23.9400 	EXP 	fam_trials_image: autoDraw = True
+24.3902 	EXP 	Sound  stopped
+24.4069 	EXP 	Sound  stopped
+24.4072 	EXP 	New trial (rep=0, index=6): {'soundFile': u'ta.wav', 'word': 3, 'location': 1, 'repetition': 1, 'trialnum': 7, 'condition': u'S'}
+24.4085 	EXP 	Set  sound=ta.wav
+24.4088 	EXP 	Sound  started
+24.4151 	EXP 	fam_trials_image: autoDraw = False
+24.4151 	EXP 	fam_trials_image: autoDraw = False
+24.4151 	EXP 	fam_trials_image: autoDraw = True
+24.8652 	EXP 	Sound  stopped
+24.8820 	EXP 	Sound  stopped
+24.8823 	EXP 	New trial (rep=0, index=7): {'soundFile': u'ti.wav', 'word': 3, 'location': 2, 'repetition': 1, 'trialnum': 8, 'condition': u'S'}
+24.8835 	EXP 	Set  sound=ti.wav
+24.8839 	EXP 	Sound  started
+24.8902 	EXP 	fam_trials_image: autoDraw = False
+24.8902 	EXP 	fam_trials_image: autoDraw = False
+24.8902 	EXP 	fam_trials_image: autoDraw = True
+25.3403 	EXP 	Sound  stopped
+25.3570 	EXP 	Sound  stopped
+25.3574 	EXP 	New trial (rep=0, index=8): {'soundFile': u'du.wav', 'word': 3, 'location': 3, 'repetition': 1, 'trialnum': 9, 'condition': u'S'}
+25.3585 	EXP 	Set  sound=du.wav
+25.3589 	EXP 	Sound  started
+25.3653 	EXP 	fam_trials_image: autoDraw = False
+25.3653 	EXP 	fam_trials_image: autoDraw = False
+25.3653 	EXP 	fam_trials_image: autoDraw = True
+25.8154 	EXP 	Sound  stopped
+25.8322 	EXP 	Sound  stopped
+25.8325 	EXP 	New trial (rep=0, index=9): {'soundFile': u'pi.wav', 'word': 1, 'location': 1, 'repetition': 2, 'trialnum': 10, 'condition': u'S'}
+25.8336 	EXP 	Set  sound=pi.wav
+25.8340 	EXP 	Sound  started
+25.8404 	EXP 	fam_trials_image: autoDraw = False
+25.8404 	EXP 	fam_trials_image: autoDraw = False
+25.8404 	EXP 	fam_trials_image: autoDraw = True
+26.2905 	EXP 	Sound  stopped
+26.3072 	EXP 	Sound  stopped
+26.3076 	EXP 	New trial (rep=0, index=10): {'soundFile': u'tu.wav', 'word': 1, 'location': 2, 'repetition': 2, 'trialnum': 11, 'condition': u'S'}
+26.3087 	EXP 	Set  sound=tu.wav
+26.3091 	EXP 	Sound  started
+26.3155 	EXP 	fam_trials_image: autoDraw = False
+26.3155 	EXP 	fam_trials_image: autoDraw = False
+26.3155 	EXP 	fam_trials_image: autoDraw = True
+26.7656 	EXP 	Sound  stopped
+26.7823 	EXP 	Sound  stopped
+26.7826 	EXP 	New trial (rep=0, index=11): {'soundFile': u'bi.wav', 'word': 1, 'location': 3, 'repetition': 2, 'trialnum': 12, 'condition': u'S'}
+26.7838 	EXP 	Set  sound=bi.wav
+26.7842 	EXP 	Sound  started
+26.7906 	EXP 	fam_trials_image: autoDraw = False
+26.7906 	EXP 	fam_trials_image: autoDraw = False
+26.7906 	EXP 	fam_trials_image: autoDraw = True
+27.2407 	EXP 	Sound  stopped
+27.2574 	EXP 	Sound  stopped
+27.2577 	EXP 	New trial (rep=0, index=12): {'soundFile': u'bu.wav', 'word': 4, 'location': 1, 'repetition': 1, 'trialnum': 13, 'condition': u'S'}
+27.2589 	EXP 	Set  sound=bu.wav
+27.2593 	EXP 	Sound  started
+27.2656 	EXP 	fam_trials_image: autoDraw = False
+27.2656 	EXP 	fam_trials_image: autoDraw = False
+27.2656 	EXP 	fam_trials_image: autoDraw = True
+27.7158 	EXP 	Sound  stopped
+27.7325 	EXP 	Sound  stopped
+27.7328 	EXP 	New trial (rep=0, index=13): {'soundFile': u'pa.wav', 'word': 4, 'location': 2, 'repetition': 1, 'trialnum': 14, 'condition': u'S'}
+27.7340 	EXP 	Set  sound=pa.wav
+27.7343 	EXP 	Sound  started
+27.7407 	EXP 	fam_trials_image: autoDraw = False
+27.7407 	EXP 	fam_trials_image: autoDraw = False
+27.7407 	EXP 	fam_trials_image: autoDraw = True
+28.1908 	EXP 	Sound  stopped
+28.2077 	EXP 	Sound  stopped
+28.2080 	EXP 	New trial (rep=0, index=14): {'soundFile': u'da.wav', 'word': 4, 'location': 3, 'repetition': 1, 'trialnum': 15, 'condition': u'S'}
+28.2092 	EXP 	Set  sound=da.wav
+28.2095 	EXP 	Sound  started
+28.2158 	EXP 	fam_trials_image: autoDraw = False
+28.2158 	EXP 	fam_trials_image: autoDraw = False
+28.2158 	EXP 	fam_trials_image: autoDraw = True
+28.6659 	EXP 	Sound  stopped
+28.6827 	EXP 	Sound  stopped
+28.6830 	EXP 	New trial (rep=0, index=15): {'soundFile': u'di.wav', 'word': 2, 'location': 1, 'repetition': 2, 'trialnum': 16, 'condition': u'S'}
+28.6841 	EXP 	Set  sound=di.wav
+28.6845 	EXP 	Sound  started
+28.6909 	EXP 	fam_trials_image: autoDraw = False
+28.6909 	EXP 	fam_trials_image: autoDraw = False
+28.6909 	EXP 	fam_trials_image: autoDraw = True
+29.1410 	EXP 	Sound  stopped
+29.1578 	EXP 	Sound  stopped
+29.1581 	EXP 	New trial (rep=0, index=16): {'soundFile': u'ba.wav', 'word': 2, 'location': 2, 'repetition': 2, 'trialnum': 17, 'condition': u'S'}
+29.1593 	EXP 	Set  sound=ba.wav
+29.1597 	EXP 	Sound  started
+29.1660 	EXP 	fam_trials_image: autoDraw = False
+29.1660 	EXP 	fam_trials_image: autoDraw = False
+29.1660 	EXP 	fam_trials_image: autoDraw = True
+29.6161 	EXP 	Sound  stopped
+29.6328 	EXP 	Sound  stopped
+29.6331 	EXP 	New trial (rep=0, index=17): {'soundFile': u'pu.wav', 'word': 2, 'location': 3, 'repetition': 2, 'trialnum': 18, 'condition': u'S'}
+29.6343 	EXP 	Set  sound=pu.wav
+29.6347 	EXP 	Sound  started
+29.6411 	EXP 	fam_trials_image: autoDraw = False
+29.6411 	EXP 	fam_trials_image: autoDraw = False
+29.6411 	EXP 	fam_trials_image: autoDraw = True
+30.0912 	EXP 	Sound  stopped
+30.1080 	EXP 	Sound  stopped
+30.1084 	EXP 	New trial (rep=0, index=18): {'soundFile': u'ta.wav', 'word': 3, 'location': 1, 'repetition': 2, 'trialnum': 19, 'condition': u'S'}
+30.1097 	EXP 	Set  sound=ta.wav
+30.1101 	EXP 	Sound  started
+30.1162 	EXP 	fam_trials_image: autoDraw = False
+30.1162 	EXP 	fam_trials_image: autoDraw = False
+30.1162 	EXP 	fam_trials_image: autoDraw = True
+30.5663 	EXP 	Sound  stopped
+30.5830 	EXP 	Sound  stopped
+30.5834 	EXP 	New trial (rep=0, index=19): {'soundFile': u'ti.wav', 'word': 3, 'location': 2, 'repetition': 2, 'trialnum': 20, 'condition': u'S'}
+30.5846 	EXP 	Set  sound=ti.wav
+30.5850 	EXP 	Sound  started
+30.5912 	EXP 	fam_trials_image: autoDraw = False
+30.5912 	EXP 	fam_trials_image: autoDraw = False
+30.5912 	EXP 	fam_trials_image: autoDraw = True
+31.0414 	EXP 	Sound  stopped
+31.0581 	EXP 	Sound  stopped
+31.0584 	EXP 	New trial (rep=0, index=20): {'soundFile': u'du.wav', 'word': 3, 'location': 3, 'repetition': 2, 'trialnum': 21, 'condition': u'S'}
+31.0596 	EXP 	Set  sound=du.wav
+31.0600 	EXP 	Sound  started
+31.0663 	EXP 	fam_trials_image: autoDraw = False
+31.0663 	EXP 	fam_trials_image: autoDraw = False
+31.0663 	EXP 	fam_trials_image: autoDraw = True
+31.5165 	EXP 	Sound  stopped
+31.5332 	EXP 	Sound  stopped
+31.5335 	EXP 	New trial (rep=0, index=21): {'soundFile': u'pi.wav', 'word': 1, 'location': 1, 'repetition': 3, 'trialnum': 22, 'condition': u'S'}
+31.5347 	EXP 	Set  sound=pi.wav
+31.5351 	EXP 	Sound  started
+31.5414 	EXP 	fam_trials_image: autoDraw = False
+31.5414 	EXP 	fam_trials_image: autoDraw = False
+31.5414 	EXP 	fam_trials_image: autoDraw = True
+31.9916 	EXP 	Sound  stopped
+32.0083 	EXP 	Sound  stopped
+32.0086 	EXP 	New trial (rep=0, index=22): {'soundFile': u'tu.wav', 'word': 1, 'location': 2, 'repetition': 3, 'trialnum': 23, 'condition': u'S'}
+32.0098 	EXP 	Set  sound=tu.wav
+32.0102 	EXP 	Sound  started
+32.0165 	EXP 	fam_trials_image: autoDraw = False
+32.0165 	EXP 	fam_trials_image: autoDraw = False
+32.0165 	EXP 	fam_trials_image: autoDraw = True
+32.4666 	EXP 	Sound  stopped
+32.4834 	EXP 	Sound  stopped
+32.4837 	EXP 	New trial (rep=0, index=23): {'soundFile': u'bi.wav', 'word': 1, 'location': 3, 'repetition': 3, 'trialnum': 24, 'condition': u'S'}
+32.4849 	EXP 	Set  sound=bi.wav
+32.4852 	EXP 	Sound  started
+32.4916 	EXP 	fam_trials_image: autoDraw = False
+32.4916 	EXP 	fam_trials_image: autoDraw = False
+32.4916 	EXP 	fam_trials_image: autoDraw = True
+32.9417 	EXP 	Sound  stopped
+32.9584 	EXP 	Sound  stopped
+32.9591 	EXP 	Sound  started
+32.9667 	EXP 	fam_trials_image: autoDraw = False
+32.9667 	EXP 	fam_trials_image: autoDraw = False
+35.8424 	EXP 	Sound  stopped
+35.8449 	EXP 	Imported auditory_run1_2.csv as conditions, 24 conditions, 6 params
+35.8451 	EXP 	Created sequence: sequential, trialTypes=24, nReps=1, seed=None
+35.8454 	EXP 	New trial (rep=0, index=0): {'soundFile': u'1A.wav', 'word': 0, 'location': 1, 'repetition': 1, 'trialnum': 1, 'condition': u'R'}
+35.8489 	EXP 	Set  sound=1A.wav
+35.8493 	EXP 	Sound  started
+35.8505 	EXP 	alien: autoDraw = True
+36.3007 	EXP 	Sound  stopped
+36.3011 	EXP 	New trial (rep=0, index=1): {'soundFile': u'1B.wav', 'word': 0, 'location': 2, 'repetition': 1, 'trialnum': 2, 'condition': u'R'}
+36.3022 	EXP 	Set  sound=1B.wav
+36.3026 	EXP 	Sound  started
+36.3089 	EXP 	alien: autoDraw = False
+36.3089 	EXP 	alien: autoDraw = False
+36.3089 	EXP 	alien: autoDraw = True
+36.7591 	EXP 	Sound  stopped
+36.7594 	EXP 	New trial (rep=0, index=2): {'soundFile': u'4A.wav', 'word': 0, 'location': 3, 'repetition': 1, 'trialnum': 3, 'condition': u'R'}
+36.7605 	EXP 	Set  sound=4A.wav
+36.7608 	EXP 	Sound  started
+36.7674 	EXP 	alien: autoDraw = False
+36.7674 	EXP 	alien: autoDraw = False
+36.7674 	EXP 	alien: autoDraw = True
+37.2176 	EXP 	Sound  stopped
+37.2179 	EXP 	New trial (rep=0, index=3): {'soundFile': u'1C.wav', 'word': 0, 'location': 1, 'repetition': 1, 'trialnum': 4, 'condition': u'R'}
+37.2189 	EXP 	Set  sound=1C.wav
+37.2193 	EXP 	Sound  started
+37.2258 	EXP 	alien: autoDraw = False
+37.2258 	EXP 	alien: autoDraw = False
+37.2258 	EXP 	alien: autoDraw = True
+37.7090 	EXP 	Sound  stopped
+37.7093 	EXP 	New trial (rep=0, index=4): {'soundFile': u'3C.wav', 'word': 0, 'location': 2, 'repetition': 1, 'trialnum': 5, 'condition': u'R'}
+37.7103 	EXP 	Set  sound=3C.wav
+37.7106 	EXP 	Sound  started
+37.7432 	EXP 	alien: autoDraw = False
+37.7432 	EXP 	alien: autoDraw = True
+38.1427 	EXP 	Sound  stopped
+38.1431 	EXP 	New trial (rep=0, index=5): {'soundFile': u'2C.wav', 'word': 0, 'location': 3, 'repetition': 1, 'trialnum': 6, 'condition': u'R'}
+38.1441 	EXP 	Set  sound=2C.wav
+38.1445 	EXP 	Sound  started
+38.1509 	EXP 	alien: autoDraw = False
+38.1509 	EXP 	alien: autoDraw = True
+38.6011 	EXP 	Sound  stopped
+38.6016 	EXP 	New trial (rep=0, index=6): {'soundFile': u'2A.wav', 'word': 0, 'location': 1, 'repetition': 1, 'trialnum': 7, 'condition': u'R'}
+38.6027 	EXP 	Set  sound=2A.wav
+38.6030 	EXP 	Sound  started
+38.6094 	EXP 	alien: autoDraw = False
+38.6094 	EXP 	alien: autoDraw = False
+38.6094 	EXP 	alien: autoDraw = True
+39.0833 	EXP 	Sound  stopped
+39.0836 	EXP 	New trial (rep=0, index=7): {'soundFile': u'3B.wav', 'word': 0, 'location': 2, 'repetition': 1, 'trialnum': 8, 'condition': u'R'}
+39.0846 	EXP 	Set  sound=3B.wav
+39.0850 	EXP 	Sound  started
+39.1167 	EXP 	alien: autoDraw = False
+39.1167 	EXP 	alien: autoDraw = True
+39.5263 	EXP 	Sound  stopped
+39.5266 	EXP 	New trial (rep=0, index=8): {'soundFile': u'2B.wav', 'word': 0, 'location': 3, 'repetition': 1, 'trialnum': 9, 'condition': u'R'}
+39.5276 	EXP 	Set  sound=2B.wav
+39.5280 	EXP 	Sound  started
+39.5346 	EXP 	alien: autoDraw = False
+39.5346 	EXP 	alien: autoDraw = True
+39.9847 	EXP 	Sound  stopped
+39.9851 	EXP 	New trial (rep=0, index=9): {'soundFile': u'1C.wav', 'word': 0, 'location': 1, 'repetition': 1, 'trialnum': 10, 'condition': u'R'}
+39.9861 	EXP 	Set  sound=1C.wav
+39.9864 	EXP 	Sound  started
+39.9930 	EXP 	alien: autoDraw = False
+39.9930 	EXP 	alien: autoDraw = True
+40.4432 	EXP 	Sound  stopped
+40.4435 	EXP 	New trial (rep=0, index=10): {'soundFile': u'4C.wav', 'word': 0, 'location': 2, 'repetition': 1, 'trialnum': 11, 'condition': u'R'}
+40.4445 	EXP 	Set  sound=4C.wav
+40.4449 	EXP 	Sound  started
+40.4514 	EXP 	alien: autoDraw = False
+40.4514 	EXP 	alien: autoDraw = True
+40.9016 	EXP 	Sound  stopped
+40.9019 	EXP 	New trial (rep=0, index=11): {'soundFile': u'3B.wav', 'word': 0, 'location': 3, 'repetition': 1, 'trialnum': 12, 'condition': u'R'}
+40.9030 	EXP 	Set  sound=3B.wav
+40.9033 	EXP 	Sound  started
+40.9098 	EXP 	alien: autoDraw = False
+40.9098 	EXP 	alien: autoDraw = False
+40.9098 	EXP 	alien: autoDraw = True
+40.9934 	DATA 	Keypress: escape
